@@ -29,6 +29,12 @@ My *Data Science & Engineering* projects 🎓
 
 ## Main stats
 
+<p align="center">
+  <img src="https://badgen.net/badge/Uc3m/aperez-b/orange?cache=86400&icon=https://user-images.githubusercontent.com/40824677/157038943-bc501697-1d4c-4f9c-a32f-d31c8175d0e8.svg">
+  <img src=https://img.shields.io/github/last-commit/madebypixel02/Uc3m-Projects/main />
+</p>
+
+
 ## Project List
 
 ### Finished Projects
@@ -50,6 +56,6 @@ My *Data Science & Engineering* projects 🎓
 
 <p align="center">
   <a href="https://www.uc3m.es/Home">
-    <img src="https://user-images.githubusercontent.com/40824677/157033678-f25379d7-dfcb-4add-9a5e-9d9d314fd728.png">
+    <img src="https://user-images.githubusercontent.com/40824677/157038943-bc501697-1d4c-4f9c-a32f-d31c8175d0e8.svg">
   </a>
 </p>
