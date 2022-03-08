@@ -27,7 +27,7 @@ My *Data Science & Engineering* projects 🎓
   </a>
 </p>
 
-## Main stats
+## Main Stats
 
 <p align="center">
   <img src="https://badgen.net/badge/uc3m/aperez-b/orange?cache=86400&icon=https://user-images.githubusercontent.com/40824677/157038943-bc501697-1d4c-4f9c-a32f-d31c8175d0e8.svg">
