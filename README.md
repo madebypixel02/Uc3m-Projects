@@ -46,12 +46,14 @@ My *Data Science & Engineering* projects 🎓
 | 3 | [Amazon Management Simulation](https://github.com/madebypixel02/Amazon-Management-Simulation-in-Python) | *The not-so-amazing power of management* | 1st | python, classes, OOP, data structures, Amazon | Data Structures & Algorithms | May 2020 | ![GitHub Last Commit](https://img.shields.io/github/last-commit/madebypixel02/Amazon-Management-Simulation-in-Python/master) |
 | 4 | [Face Recognizer](https://github.com/madebypixel02/face-recognizer_with_fda_pca_knn) | *Wait a minute... Who are you?* | 2nd | R, FDA, PCA, KNN, face recognizer | Statistical Learning | Dec 2020 | ![GitHub Last Commit](https://img.shields.io/github/last-commit/madebypixel02/face-recognizer_with_fda_pca_knn/master) |
 | 5 | [Machine Learning Pac-Man](https://github.com/madebypixel02/Machine-Learning-Pacman) | *The Classic ghost-eating game* | 2nd | python, OOP, ML, weka | Machine Learning I | May 2021 | ![GitHub Last Commit](https://img.shields.io/github/last-commit/madebypixel02/Machine-Learning-Pacman/master) |
+| 6 | [Openssl Practices](https://github.com/madebypixel02/Openssl-Practices-2022) | *Welcome to the Open Secure Sockets Layer* | 2nd | openssl, RSA, encryption, signatures, keys | Data Protection & Cybersecurity | March 2022 | ![GitHub Last Commit](https://img.shields.io/github/last-commit/madebypixel02/Openssl-Practices-2022/main) |
+| 7 | [ABE Scalability](https://github.com/madebypixel02/ABE-Scalability) | *Attribute-based Encryption Scalability* | 2nd | ABE, scalability, encryption, keys, C, Makefile | Data Protection & Cybersecurity | April 2022 | ![GitHub Last Commit](https://img.shields.io/github/last-commit/madebypixel02/ABE-Scalability/main) |
 
 ### In-Progress Projects
 
 | Nº  | Name | Description | College Year | Topics | Subject | Finished | Activity |
 | :-: | :--: | :---------: | :----------: | :----: | :-----: | :------: | :------: |
-| 6 | [Openssl Practices](https://github.com/madebypixel02/Openssl-Practices-2022) | *Welcome to the Open Secure Sockets Layer* | 2nd | openssl, RSA, encryption, signatures, keys | Data Protection & Cybersecurity | ❌ | ![GitHub Last Commit](https://img.shields.io/github/last-commit/madebypixel02/Openssl-Practices-2022/main) |
+|||||||||
 
 
 <p align="center">
