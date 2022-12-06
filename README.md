@@ -13,19 +13,13 @@
 <!-- By: aperez-b <100429952@alumnos.uc3m.es>                                -->
 <!--                                                                         -->
 <!-- Created: 2022/03/07 11:26:01 by aperez-b                                -->
-<!-- Updated: 2022/12/05 18:01:28 by aperez-b                                -->
+<!-- Updated: 2022/12/06 10:48:21 by aperez-b                                -->
 <!--                                                                         -->
 <!-- *********************************************************************** -->
 
 # Uc3m-Projects
 
 My *Data Science & Engineering* projects 🎓
-
-<div align="center">
-  <a href="https://www.uc3m.es/Home">
-    <img src="https://user-images.githubusercontent.com/40824677/157033257-8a0e20bf-1d9f-458b-8e24-57ed39cca196.png">
-  </a>
-</div>
 
 ## Main Stats
 
