@@ -13,7 +13,7 @@
 <!-- By: aperez-b <100429952@alumnos.uc3m.es>                                -->
 <!--                                                                         -->
 <!-- Created: 2022/03/07 11:26:01 by aperez-b                                -->
-<!-- Updated: 2022/12/06 10:48:21 by aperez-b                                -->
+<!-- Updated: 2022/12/06 10:49:36 by aperez-b                                -->
 <!--                                                                         -->
 <!-- *********************************************************************** -->
 
@@ -49,9 +49,10 @@ My *Data Science & Engineering* projects 🎓
 | :-: | :--: | :---------: | :----------: | :----: | :-----: | :------: | :------: |
 |||||||||
 
-
+<!--
 <div align="center">
   <a href="https://www.uc3m.es/Home">
     <img src="https://user-images.githubusercontent.com/40824677/157038943-bc501697-1d4c-4f9c-a32f-d31c8175d0e8.svg">
   </a>
 </div>
+-->
